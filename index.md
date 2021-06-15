@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Website!"
+title: ""
 ---
 
 About me:
@@ -8,7 +8,7 @@ About me:
 My name is Sarthak Jain
 
 This is how I look:
-<img src ="Induction Picture.pdf">
+<img src ="Induction Picture.jpg">
 
 
 
