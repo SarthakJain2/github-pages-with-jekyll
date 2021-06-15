@@ -1,14 +1,13 @@
 ---
 title: "Welcome to my Website!"
 ---
----
-About me
----
----
+
+About me:
+
+
 My name is Sarthak Jain
----
+
 This is how I look:
 
-Social Media:
-Sjain2@ebnet.org
-sarthakjainnn
+
+
