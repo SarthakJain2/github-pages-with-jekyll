@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my Website!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+About me
+
+My name is Sarthak Jain
+This is how I look:
+
+Social Media:
+Sjain2@ebnet.org
+sarthakjainnn
