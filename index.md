@@ -4,7 +4,7 @@ title: "Welcome to my Website!"
 
 About me:
 
-Hello, My name is Sarthak Jain. I am a junior at East Brunswick High School. 
+Hello, my name is Sarthak Jain. I am a junior at East Brunswick High School. 
 I have been attending East Brunswick public schools since I was in 2nd grade.
 My favorite sport to play is soccer and I have been playing it since I was 5 years old. 
 I also enjoy partaking in other sports such as, basketball, football, and tennis.
