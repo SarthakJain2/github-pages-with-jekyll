@@ -14,7 +14,6 @@ overall my journey through high school. Thank you!
 
 
 <img src ="IMG_3742.jpg">
-<a href = "Brag Sheet Revision 4 (2).pdf">Brag Sheet</a>
 
 
 
