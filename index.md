@@ -8,7 +8,7 @@ About me:
 My name is Sarthak Jain
 
 
-<img src ="Induction Picture.jpg">
+<img src ="IMG_3742.jpg">
 
 
 
